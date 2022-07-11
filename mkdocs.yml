@@ -1,7 +1,7 @@
 # Website details
 
 site_name: RISC Handbook
-site_url: https://vidit21srivastava.github.io/risc-handbook/
+site_url: https://risc-iitbbs.github.io/risc-handbook/
 
 site_description: A beginners guide to Robotics
 site_author: Robotics and Intelligence Systems Club (RISC), IIT Bhubaneswar
@@ -24,8 +24,8 @@ theme:
     primary: black
     accent: indigo
 
-repo_name: 'RISC Handbook'
-repo_url: 'https://github.com/vidit21srivastava/risc-handbook'
+repo_name: 'RISC-IITBBS/risc-handbook'
+repo_url: 'https://risc-iitbbs.github.io/risc-handbook/'
 
 extra:
   social:
@@ -53,9 +53,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-# google_analytics:
-#   - UA-173174352-1
-#   - auto
+
 
 
 # navigation bar

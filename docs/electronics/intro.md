@@ -1,0 +1,4 @@
+# Introduction
+Electronics are essential to robotics, from connecting microprocessors to building logical circuits. At the end of the day, every action a robot takes is ultimately based on a signal it has received.
+Any robotics project that requires electronics must complete duties like establishing the power source, connecting sensors, establishing the compute unit, etc.
+Most robots include a processing unit on board that gathers information from sensors and does all calculations to determine the actions the robot should take. Popular robot processors include the Raspberry Pi, Nvidia Jetson, Arduino, and others.

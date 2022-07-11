@@ -1,0 +1,130 @@
+# Website details
+
+site_name: RISC Handbook
+site_url: https://vidit21srivastava.github.io/risc-handbook/
+
+site_description: A beginners guide to Robotics
+site_author: Robotics and Intelligence Systems Club (RISC), IIT Bhubaneswar
+
+copyright: 'Copyright & copy; 2022  Robotics and Intelligence Systems Club (RISC), IIT Bhubaneswar'
+
+
+# mkdocs setup
+
+theme:
+  name: 'material'
+  language: en
+  icon:
+    logo: material/book-variant
+  favicon: images/RISC Logo Dark Blue.png
+  features:
+    - tabs
+    - navigation.sections
+  palette:
+    primary: black
+    accent: indigo
+
+repo_name: 'RISC Handbook'
+repo_url: 'https://github.com/vidit21srivastava/risc-handbook'
+
+extra:
+  social:
+
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/IIT-Bhubaneswar-Robotics-Club-RISC   
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/RISC-IITBBS
+
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/risc.iitbbs/  
+
+markdown_extensions:
+  - attr_list
+  - smarty
+  - admonition
+  - codehilite
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# google_analytics:
+#   - UA-173174352-1
+#   - auto
+
+
+# navigation bar
+
+nav:
+  - Home: index.md
+  - Roadmap: roadmap.md
+  - Automation:
+    - Introduction: automation/intro.md
+    - ROS:
+      - Installation: automation/ROS/installation.md
+      - Getting Started with ROS: automation/ROS/gettingstartedros.md
+    - Path Planning in Robotics:
+      - Introduction to Path Planning: automation/PathPlanners/intro.md
+      - Delibrate Path Planning:
+        - Graph Based Algorithms:
+          - A* Algorithm: automation/PathPlanners/Astar.md
+          - Dijkstra's Algorithm: automation/PathPlanners/Dijkstra.md
+        - Sampling Based Algorithms:
+          - RRT: automation/PathPlanners/RRT.md
+          - PRM: automation/PathPlanners/PRM.md
+        - Optimization Based Algorithm:
+          - Genetic Algorithm: automation/PathPlanners/GA.md
+      - Reactive Path Planning:
+        - Artificial Potential Fields: automation/PathPlanners/APF.md
+    - Control Theory:
+      - Introduction to Control Theory: automation/ControlTheory/Control_Theory.md
+      - PID Controller: automation/ControlTheory/PID_Controller.md
+      - Linear Quadratic Regulator: automation/ControlTheory/LQR.md
+      - Model Predictive Control: automation/ControlTheory/MPC.md
+    - Simulation:
+      - Introduction: automation/simulation/intro.md
+      - Gazebo:
+        - Basics of Gazebo: automation/simulation/gazebo/basics.md
+      - STDR Simulator:
+        - Basics of STDR: automation/simulation/stdr/Basics.md  
+      
+  - Electronics:
+    - Introduction: electronics/intro.md
+    - Single Board Computers: 
+      - Raspberry Pi: electronics/Single_board_computer/Raspberrypi.md
+      - Nvidia Jetson Nano: electronics/Single_board_computer/Jetsonnano.md
+    - Sensors:
+      - LIDAR: electronics/Sensors/lidar.md
+    - Microcontroller Development Boards:
+      - Arduino: electronics/Development_Boards/Arduino.md
+      - ESP32 : electronics/Development_Boards/ESP32.md
+      - BluePill (STM32F103C8T6) : electronics/Development_Boards/STM32.md
+      - Pyboard - MicroPython : electronics/Development_Boards/Pyboard.md
+    - Modules:
+      - ESP8266 - Wifi Module: electronics/Modules/ESP8266.md
+    - Motors :
+      - Servo Motors: electronics/Motors/ServoMotor.md  
+  - Mechanical Systems:
+    - Introduction: mechanical/intro.md
+    - Gears: mechanical/Gears.md
+    - Drive Mechanism: mechanical/drive_mechanism.md
+    - Kinematics and Dynamics:
+          - Position and Orientation: mechanical/position and orientation.md
+          - Kinematics:
+                - Joint Kinematics: mechanical/Joint Kinematics.md
+                - Forward and Inverse Kinematics: mechanical/Forward and Inverse Kinematics.md
+          - Dynamics:
+                - Introduction to Dynamics: mechanical/Introduction to Dynamics.md
+
+  
+  - About Us: about.md
+  
+  # - Resources: resources.md
+
+  
+

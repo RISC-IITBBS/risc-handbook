@@ -1,0 +1,3 @@
+# Introduction
+Designing, creating, and testing mechanical sensors and devices for a robot are all part of the mechanical side of robotics.
+Among many other factors that go into the development of a new robot, this includes the robot's design, kind of robot, joint mechanics, axes, heat transfer properties, mounting places, and many others.A novel robot concept and its optimum manufacturing methods are developed using CAD or other design tools.The kinematics and dynamics equations of the robot must be solved as part of mechanical design in order for robots to do any task at all.

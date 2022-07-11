@@ -25,7 +25,7 @@ theme:
     accent: indigo
 
 repo_name: 'RISC-IITBBS/risc-handbook'
-repo_url: 'https://risc-iitbbs.github.io/risc-handbook/'
+repo_url: https://risc-iitbbs.github.io/risc-handbook/
 
 extra:
   social:

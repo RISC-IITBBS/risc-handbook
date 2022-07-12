@@ -20,7 +20,7 @@ Python is also very popular due to its use in machine learning and also because 
 * [Youtube Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 
 ### C
-C is a great way to learn the basics of this important language whilst doing hands-on robotics.
+C is a important language whilst doing hands-on robotics.Arduino uses a wrapper around C.If the robotics device in question has limitations in memory, then standard C programming language is a better technology choice.
 
 *Resources*
 

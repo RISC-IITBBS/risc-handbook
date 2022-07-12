@@ -93,8 +93,8 @@ nav:
       - Introduction: automation/simulation/intro.md
       - Gazebo:
         - Basics of Gazebo: automation/simulation/gazebo/basics.md
-      - STDR Simulator:
-        - Basics of STDR: automation/simulation/stdr/Basics.md  
+      # - STDR Simulator:
+      #   - Basics of STDR: automation/simulation/stdr/Basics.md  
       
   - Electronics:
     - Introduction: electronics/intro.md

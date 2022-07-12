@@ -4,7 +4,7 @@ STDR is a simple two dimensional robot simulator. It is very useful in cases whe
 
 ### Installation
 
-1. For ROS Kinetic, stdr can be installed using apt-get.
+1. For ROS Humble Hawksbil , stdr can be installed using apt-get.
 2. For ROS Melodic, it is advisible to install stdr from [source](https://github.com/stdr-simulator-ros-pkg/stdr_simulator).
 
 ### Architecture Overview

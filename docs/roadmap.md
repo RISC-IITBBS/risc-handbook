@@ -20,7 +20,7 @@ Python is also very popular due to its use in machine learning and also because 
 * [Youtube Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 
 ### C
-The Arduino microcontroller uses a programming language based on C and is a great way to learn the basics of this important language whilst doing hands-on robotics.
+C is a great way to learn the basics of this important language whilst doing hands-on robotics.
 
 *Resources*
 
@@ -30,7 +30,7 @@ The Arduino microcontroller uses a programming language based on C and is a grea
 * [Youtube Tutorial](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 
 ### C++
-C++ allows interaction with low level hardware, and also real time performance. C and C++ are very mature programming languages. To ensure the best performance of a robot, it will be better to use C++. As the robotics is very dependent on the real time performance, C and C++ are the best options.
+The Arduino microcontroller uses a programming language based on C++. C++ allows interaction with low level hardware, and also real time performance. C and C++ are very mature programming languages. To ensure the best performance of a robot, it will be better to use C++. As the robotics is very dependent on the real time performance, C and C++ are the best options.
 
 *Resources*
 
@@ -66,39 +66,6 @@ GitHub is a Git repository hosting service that provides a web-based graphical i
 
     [YouTube Tutorial](https://youtu.be/SWYqp7iY_Tc) | [Udemy Course](https://www.udemy.com/course/git-expert-4-hours/)
 
-## Electronics
-
-The electronics system of a robot is made up of sensors and actuators that are interfaced with the microcontroller using drivers. Interfacing is done with basic electronics components like as wires, resistors, and capacitors, and the whole assembly is installed on a breadboard, prototyping board, or printed circuit board (PCB).Single board computers (SBC) are used for advanced functioning.
-
-### Single Board Computers
-A single-board computer (SBC) is a complete computer built on a single circuit board, with microprocessor(s), memory, input/output (I/O) and other features required of a functional computer. Single-board computers are commonly made as demonstration or development systems, for educational systems, or for use as embedded computer controllers. 
-[Rasberry pi](https://www.raspberrypi.com/) is good to start with.
-
-### Microcontrollers 
-
-[Arduino](https://www.arduino.cc/en/Guide/Introduction) is a low cost, open source and easy to learn microcontroller. The syntax used to program Arduino is similar to that of C/C++ and a software called [Arduino IDE](https://www.arduino.cc/en/software) is used to program it.
-The Arduino IDE is open source software which is written in Java and will work on a variety of platforms: Windows, Mac, and Linux. The IDE enables you to write code in a special environment with syntax highlighting and other features which will make coding easier, and then easily load your code onto the device with a simple click of a button.
-
-*Resources*
-
-* [Web Tutorials](https://www.arduino.cc/en/Tutorial/HomePage) 
-* [Youtube Tutorial](https://www.youtube.com/c/mcwhorpj) 
-* [TinkedCad](https://www.tinkercad.com/)(for online simulation)
-
-
-### Sensors
-
-A sensor monitors environmental conditions such as fluid levels, temperatures, vibrations, or voltage. When these environmental conditions change, they send an electrical signal to the sensor, which can then send the data or an alert back to a centralized computer system or adjust the functioning of a particular piece of equipment. Ex. wheel encoders, temperature sensors, depth cameras (Kinect), LiDARs, Ultrasonic sensors, etc.
-
-### Actuators
-
-An actuator, on the other hand, causes movement. It takes an electrical signal and combines it with an energy source to create physical motion. An actuator may be pneumatic, hydraulic, electric, thermal, or magnetic. Ex. Motors (DC, Stepper, Servo, BLDC),Linear Actuators (Solenoid or a linear servo), etc.
-
-### PCB Designing
-
-[EAGLE](https://www.autodesk.in/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) is used to design a PCB. One can download and install it free of cost from the [official website](https://www.autodesk.in/products/eagle/free-download) of AutoDesk.
-
-[Youtube Tutorial](https://www.youtube.com/playlist?list=PLr0mEvO7yBe6QHexsgU2WFUGesFFobGZp)
 
 ## Automation
 
@@ -183,6 +150,40 @@ A controller receives a reference state from us. The controller also has sensor 
 * [Model Predictive Control](https://youtu.be/XaD8Lngfkzk) - by Lasse Peters is well explained.
 * [Practical Control Systems](https://www.youtube.com/playlist?list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b) - Playlist by MATLAB
 * [State Space](https://www.youtube.com/playlist?list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w) - Playlist by MATLAB teaches State space equations, pole placement and concepts like controllability and is important for learning math behind Control Theory.
+
+
+## Electronics
+
+The electronics system of a robot is made up of sensors and actuators that are interfaced with the microcontroller using drivers. Interfacing is done with basic electronics components like as wires, resistors, and capacitors, and the whole assembly is installed on a breadboard, prototyping board, or printed circuit board (PCB).Single board computers (SBC) are used for advanced functioning.
+
+### Single Board Computers
+A single-board computer (SBC) is a complete computer built on a single circuit board, with microprocessor(s), memory, input/output (I/O) and other features required of a functional computer. Single-board computers are commonly made as demonstration or development systems, for educational systems, or for use as embedded computer controllers. 
+[Rasberry pi](https://www.raspberrypi.com/) is good to start with.
+
+### Microcontrollers 
+
+[Arduino](https://www.arduino.cc/en/Guide/Introduction) is a low cost, open source and easy to learn microcontroller. The syntax used to program Arduino is similar to that of C/C++ and a software called [Arduino IDE](https://www.arduino.cc/en/software) is used to program it.
+The Arduino IDE is open source software which is written in Java and will work on a variety of platforms: Windows, Mac, and Linux. The IDE enables you to write code in a special environment with syntax highlighting and other features which will make coding easier, and then easily load your code onto the device with a simple click of a button.
+
+*Resources*
+
+* [Web Tutorials](https://www.arduino.cc/en/Tutorial/HomePage) 
+* [Youtube Tutorial](https://www.youtube.com/c/mcwhorpj) 
+* [TinkedCad](https://www.tinkercad.com/)(for online simulation)
+
+
+### Sensors
+
+A sensor monitors environmental conditions such as fluid levels, temperatures, vibrations, or voltage. When these environmental conditions change, they send an electrical signal to the sensor, which can then send the data or an alert back to a centralized computer system or adjust the functioning of a particular piece of equipment. Ex. wheel encoders, temperature sensors, depth cameras (Kinect), LiDARs, Ultrasonic sensors, etc.
+
+### Actuators
+
+An actuator, on the other hand, causes movement. It takes an electrical signal and combines it with an energy source to create physical motion. An actuator may be pneumatic, hydraulic, electric, thermal, or magnetic. Ex. Motors (DC, Stepper, Servo, BLDC),Linear Actuators (Solenoid or a linear servo), etc.
+
+### PCB Designing
+
+[easyEDA](https://easyeda.com/) is good to start with. One could follow [official tutorial](https://docs.easyeda.com/en/FAQ/Editor/index.html) for better understanding. 
+[Youtube Tutorial](https://www.youtube.com/watch?v=MsuR6W-jN5M&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu)
 
 ## Mechanical Designing
 

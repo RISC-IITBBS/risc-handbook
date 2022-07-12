@@ -38,6 +38,11 @@ extra:
 
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/risc.iitbbs/  
+  
+  analytics:
+    provider: google
+    property: G-7DRK873DXE
+
 
 markdown_extensions:
   - attr_list

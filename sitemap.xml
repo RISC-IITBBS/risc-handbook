@@ -2,187 +2,187 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/about/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/roadmap/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/intro/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/ControlTheory/Control_Theory/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/ControlTheory/LQR/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/ControlTheory/MPC/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/ControlTheory/PID_Controller/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/PathPlanners/APF/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/PathPlanners/Astar/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/PathPlanners/Dijkstra/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/PathPlanners/GA/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/PathPlanners/PRM/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/PathPlanners/RRT/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/PathPlanners/intro/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/ROS/gettingstartedros/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/ROS/installation/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/simulation/intro/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/simulation/gazebo/basics/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/automation/simulation/stdr/Basics/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/intro/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Development_Boards/Arduino/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Development_Boards/ESP32/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Development_Boards/Pyboard/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Development_Boards/STM32/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Modules/ESP8266/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Motors/ServoMotor/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Sensors/lidar/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Single_board_computer/Jetsonnano/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/electronics/Single_board_computer/Raspberrypi/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/mechanical/Forward%20and%20Inverse%20Kinematics/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/mechanical/Gears/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/mechanical/Introduction%20to%20Dynamics/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/mechanical/Joint%20Kinematics/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/mechanical/drive_mechanism/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/mechanical/intro/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://risc-iitbbs.github.io/risc-handbook/mechanical/position%20and%20orientation/</loc>
-         <lastmod>2022-07-12</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

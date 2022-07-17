@@ -110,7 +110,7 @@ The analogRead function reads the voltage at an analog pin and linearly converts
 
 ## References
 
-1. For more lessons and material on Arduino, check out the QSTP - [Introduction to Mechatronics](https://github.com/ERC-BPGC/QSTP-Introduction-to-Mechatronics/tree/master/Module%201%20-%20Electronics%20and%20Arduino), designed by ERC.
+
 2. For some more detailed tutorials do read the documentation of [Arduino](https://www.arduino.cc/en/Tutorial/HomePage).
 3. For some video tutorials check out Jeremy Blum's [playlist](https://www.youtube.com/playlist?list=PLA567CE235D39FA84) for Arduino.
 4. For more DIY project ideas and inspirations check out [Great Scott's](https://www.youtube.com/c/greatscottlab/featured) youtube channel.

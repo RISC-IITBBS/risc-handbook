@@ -4,9 +4,9 @@ site_name: RISC Handbook
 site_url: https://risc-iitbbs.github.io/risc-handbook/
 
 site_description: A beginners guide to Robotics
-site_author: Robotics and Intelligence Systems Club (RISC), IIT Bhubaneswar
+site_author: Robotics and Intelligent Systems Club (RISC), IIT Bhubaneswar
 
-copyright: 'Copyright & copy; 2022  Robotics and Intelligence Systems Club (RISC), IIT Bhubaneswar'
+copyright: 'Copyright & copy; 2022  Robotics and Intelligent Systems Club (RISC), IIT Bhubaneswar'
 
 
 # mkdocs setup
@@ -29,6 +29,8 @@ repo_url: https://github.com/RISC-IITBBS/risc-handbook
 
 extra:
   social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/robotics-and-intelligent-systems-club/
 
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/IIT-Bhubaneswar-Robotics-Club-RISC   

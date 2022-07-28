@@ -1,6 +1,6 @@
 # About Us
 
-The Robotics and Intelligence Systems Club [RISC](https://github.com/RISC-IITBBS), IIT Bhubaneswar is a group of robotics and technology enthusiasts who explore the world of technology, learn and make projects based on Robotics, Internet of Things (IoT), Machine Learning, Computer Simulations, etc. RISC is home to many of institutes robotics enthusiasts who spend a great chunk of their time in designing and prototyping robots which can perform any required task. RISC provides a platform for students to explore and learn about modern technology.
+The Robotics and Intelligence Systems Club [[RISC](https://github.com/RISC-IITBBS)], IIT Bhubaneswar is a group of robotics and technology enthusiasts who explore the world of technology, learn and make projects based on Robotics, Internet of Things (IoT), Machine Learning, Computer Simulations, etc. RISC is home to many of institutes robotics enthusiasts who spend a great chunk of their time in designing and prototyping robots which can perform any required task. RISC provides a platform for students to explore and learn about modern technology.
 
 We also organize regular workshops to inspire students across varied technical backgrounds to develop their ideas and expose them to the wonders of robotics. We are open to anyone with a general interest in engineering and who wants to explore robotics, so feel free to get in touch with us.
 
